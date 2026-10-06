@@ -13,3 +13,4 @@
 ![JDK and Git](jdk-git.png)
 
 2. IDE
+![IntelliJ IDEA](intellij.png)
