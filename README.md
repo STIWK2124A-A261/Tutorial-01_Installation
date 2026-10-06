@@ -11,4 +11,5 @@
 ## Screenshot of result/output
 1. JDK & Git
 ![JDK and Git](jdk-git.png)
+
 2. IDE
